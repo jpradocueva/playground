@@ -1,4 +1,4 @@
-{ "$schema": "https://raw.githubusercontent.com/jpradocueva/language/temp/sdf-schema.json",
+{ "$ref": "https://raw.githubusercontent.com/jpradocueva/language/temp/sdf-schema.json",
   "info": {
     "title": "OMA LwM2M Accelerometer (Object ID 3313)",
     "version": "20191116",
